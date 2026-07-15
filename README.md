@@ -3,7 +3,6 @@
 
 ![AdventureWorks Dashboard](https://github.com/tuscanogladys-DA/Sales-Performance-Dashboard/blob/main/Aw%20Images/AdventureWorks%20Sales%20Dashboard%20GIF.gif)
 
-
 ## 📊 Project Overview: AdventureWorks Sales Performance Analysis Dashboard
 
 **Tools used:** Power BI Desktop · Power Query (ETL) · DAX · Excel
