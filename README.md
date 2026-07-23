@@ -103,7 +103,7 @@ The dashboard uses a **star schema** design:
 
 ## <h1 align="center">🎯 Personal Insights </h1>
 
-This project let me apply the same analytical rigor I use in health and benefits consulting — clean data, model it right, build measures that answer real questions — to a completely different industry. The result: a five-page dashboard that takes a leadership team from "how's the business doing?" down to "which 12 SKUs and which regions actually move the needle?" in a few clicks.
+This project let me apply the same analytical rigor I use in health and benefits consulting — clean data, model it right, build measures that answer real questions — to a completely different industry. The result: a five-page dashboard that takes a leadership team from "how's the business doing?" down to "which products and which regions actually generates income?" in a few clicks.
 
 ---
 
